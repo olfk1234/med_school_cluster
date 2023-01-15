@@ -14,7 +14,3 @@ Principal Component Analysis (PCA) performs a linear transformation on a dataset
 
 K-means Clustering
 K-means Clustering was utilized, as it allows for the production of distinct clusters. K means clustering separates the med schools by grouping the closest points together into the same cluster. More specifically, it groups the different medical schools to the cluster with the nearest mean. After the points are clustered, the mean of the new cluster is calculated. After calculation, the points are reclustered to the closest cluster mean. This process is repeated until no points are reclassified to a different cluster. Four clusters allows for a non-trivial amount of clusters, while still allowing for the clusters to be distinct from each other.
-
-The image of the clusters are shown below.
-
-
