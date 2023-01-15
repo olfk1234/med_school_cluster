@@ -7,7 +7,7 @@ The link to the website is below:
 
 Key Steps:
 
-Scaling the Dataset
+<b>Scaling the Dataset</b>
 The dataset of medical schools had the values scaled so that the mean of the values was equal to zero.
 
 Principal Component Analysis
