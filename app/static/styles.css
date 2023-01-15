@@ -1,0 +1,15 @@
+body{
+    background-color:#f6ebf4 ;
+    text-align: center;
+}
+#hide {
+    display: none;
+  }
+#Yes:checked ~ #hide {
+    display: block;
+  }
+  
+.required:after{
+    content:"*" ;
+    color:red   
+    }
