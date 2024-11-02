@@ -1,8 +1,7 @@
 
 This project uses K-means clustering to sort different medical schools into different clusters to determine the most optimal medical schools for pre-meds to apply to based on in-state matriculation percentage, MCAT score, and GPA. A web application was created using Flask to allow people to see which list of medical schools they should apply for. The web application was deployed to Google Cloud to allow for access by anyone. 
 
-The link to the website is below:
-[bit.ly/med-school-finder](https://med-school-app-374700.uc.r.appspot.com/)
+
 
 
 <h1>Key Steps:<h1>
